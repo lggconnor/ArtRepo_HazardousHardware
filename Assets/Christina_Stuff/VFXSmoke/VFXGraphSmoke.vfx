@@ -106,26 +106,14 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614948}
       id: 1
       isStickyNote: 0
-    - model: {fileID: 8926484042661614974}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614976}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614980}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614983}
-      id: 0
-      isStickyNote: 0
   stickyNoteInfos: []
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -439
-    y: -713
-    width: 3182
-    height: 2131
+    x: -414
+    y: -654
+    width: 3130
+    height: 2036
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
