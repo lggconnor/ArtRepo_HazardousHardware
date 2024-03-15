@@ -198,6 +198,9 @@
         },
         {
             "m_Id": "185232c92c324d0e8cc35f545acee754"
+        },
+        {
+            "m_Id": "16f5a6e345b84079acd31086ca2660c1"
         }
     ],
     "m_Edges": [
@@ -1271,6 +1274,26 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "16f5a6e345b84079acd31086ca2660c1",
+    "m_Title": "Colours!!!!!!!!!",
+    "m_Content": "DO NOT CHANGE COLOURS HERE!!!!!! change colours by inspecting the shield or the shield material ",
+    "m_TextSize": 2,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1695.2000732421875,
+        "y": -1409.5999755859375,
+        "width": 541.5999755859375,
+        "height": 631.199951171875
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
