@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 53885544}
   - component: {fileID: 53885543}
   m_Layer: 0
-  m_Name: example1
+  m_Name: UI Health1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -161,7 +161,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 0d8f07e1cb009ca4bab687d1da10de2c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -201,13 +201,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53885542}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.033382, y: -1.6253738, z: 5.906784}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0.06962998, y: -0.38857234, z: 0.021662489, w: -0.91852814}
+  m_LocalPosition: {x: 52.385, y: 5.283, z: -14.76}
+  m_LocalScale: {x: 0.015430329, y: 0.015430329, z: 0.01543033}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 844298136}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 8.323, y: 45.921, z: 0.829}
 --- !u!1 &203844586
 GameObject:
   m_ObjectHideFlags: 0
@@ -1734,7 +1734,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 53885544}
   - {fileID: 472442336}
   - {fileID: 793355587}
   m_Father: {fileID: 0}
@@ -4791,3 +4790,4 @@ SceneRoots:
   - {fileID: 1813850342}
   - {fileID: 1107107719}
   - {fileID: 1807101074}
+  - {fileID: 53885544}
